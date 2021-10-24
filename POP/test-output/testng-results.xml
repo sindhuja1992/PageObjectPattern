@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7100" started-at="2021-10-24T16:52:18 EDT" finished-at="2021-10-24T16:52:25 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7100" started-at="2021-10-24T16:52:18 EDT" finished-at="2021-10-24T16:52:25 EDT">
+      <class name="SeleniumTests.OpenGoogleSearchEngine">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SeleniumTests.OpenGoogleSearchEngine@612fc6eb]" name="beforeTest" is-config="true" duration-ms="5291" started-at="2021-10-24T16:52:18 EDT" finished-at="2021-10-24T16:52:23 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:SeleniumTests.OpenGoogleSearchEngine@612fc6eb]" name="verifyTitle" duration-ms="1767" started-at="2021-10-24T16:52:23 EDT" finished-at="2021-10-24T16:52:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- SeleniumTests.OpenGoogleSearchEngine -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
